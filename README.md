@@ -14,30 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
-  <h1>Hi there, I'm <a href="https://yourwebsite.com">Your Name</a>! 👋</h1>
-  <p><strong>Software Engineer | Full-Stack Developer | Open Source Enthusiast</strong></p>
+  <h1>Hi there, I'm <a href="https://sanjeev-portfolio-gamma.vercel.app/">Sanjeev</a>! 👋</h1>
+  <p><strong>Software Engineer | Full-Stack Developer | Open Source Enthusiast | Network Engineer || Cloud engineer</strong></p>
+  <p><strong>Machine learning || Networking || Cyber Security || Development </strong></p>
 </div>
 
 <div align="center">
   <p>🚀 Passionate about building scalable web applications, exploring cloud architectures, and solving complex problems with clean code.</p>
+  <p>Currently in the development of application </p>
+  <p>Learning machine learning, cyber security , networking , cloud and etc </p>
+  <p>Marking footsteps in multiple areas </p>
 </div>
 
 ---
 
 ### 💫 About Me
 
-- 🔭 I’m currently working on **[Project Name/Current Role]**
-- 🌱 I’m currently learning **Advanced System Design and Cloud Solutions**
+- 🔭 I’m currently working on Project of creating a **ml application which predicts stock prices**
+- 🌱 I’m currently learning **Machine learning and networking ,also pipeline process**
 - 👯 I’m looking to collaborate on **Open Source Projects & Innovative Startups**
 - 🤔 I’m looking for help with **Mastering Advanced DevOps Pipelines**
 - 💬 Ask me about **React, Spring Boot, Linux, or Cloud Security**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I can debug code in my sleep, but waking up is a different story.**
+- 📫 How to reach me: **sanjeevsabari01@gmail.com**
+- ⚡ Fun fact: **I can debug code in my sleep, but waking up is a different story. *<<JK>>* **
 
 ---
 
@@ -76,13 +77,18 @@ Here are some ideas to get you started:
 ### 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/sanjeev-sabari-s-7323342a0">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://sanjeev-portfolio-gamma.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Personal-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp6bm94bm94bm94bm94bm94bm94bm94bm94bm94bm94bm94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/q0S4yZfR0Q97a/giphy.gif" width="200" />
+  <p><i>Building the future, one bug at a time!</i></p>
 </div>
