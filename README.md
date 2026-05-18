@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with **Mastering Advanced DevOps Pipelines**
 - 💬 Ask me about **React, Spring Boot, Linux, or Cloud Security**
 - 📫 How to reach me: **sanjeevsabari01@gmail.com**
-- ⚡ Fun fact: **I can debug code in my sleep, but waking up is a different story. *<<JK>>* **
+- ⚡ Fun fact: **I can debug code in my sleep, but waking up is a different story. <JK> **
 
 ---
 
